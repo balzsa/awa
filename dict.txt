@@ -1,5 +1,47 @@
 happy;sad;joyful;feeling or showing pleasure or contentment
-sadness;happiness;sad;the condition or quality of being sad
-strong;weak;sturdy, powerful;having physical strength or endurance
+sadness;happiness;sorrow;the condition or quality of being sad
+strong;weak;sturdy;having physical strength or endurance
 brave;cowardly;courageous;ready to face and endure danger or pain
-quick;slow;fast, speedy;moving or capable of moving at high speed
+quick;slow;fast;moving or capable of moving at high speed
+intelligent;ignorant;smart;having or showing a high degree of intelligence
+beautiful;ugly;pretty;pleasing the senses or mind aesthetically
+difficult;easy;challenging;hard to do or understand
+rich;poor;wealthy;having a lot of money or assets
+young;old;juvenile;being in the early stage of life
+generous;stingy;giving;showing a readiness to give more of something than is necessary
+kind;cruel;compassionate;having or showing a friendly, generous, and considerate nature
+bright;dim;shiny;giving out or reflecting a lot of light
+clean;dirty;spotless;free from dirt, marks, or stains
+calm;agitated;peaceful;not showing or feeling nervousness, anger, or other emotions
+honest;dishonest;truthful;free of deceit and untruthfulness
+exciting;boring;thrilling;causing great enthusiasm and eagerness
+friendly;hostile;amiable;kind and pleasant
+confident;insecure;self-assured;feeling or showing confidence in oneself
+creative;unimaginative;inventive;having the ability to create
+funny;serious;humorous;causing laughter or amusement
+dark;light;dim;with little or no light
+ancient;modern;old;belonging to the very distant past and no longer in existence
+simple;complex;easy;easily understood or done
+healthy;unhealthy;fit;in good health
+noisy;quiet;loud;making a lot of noise
+tall;short;high;of great or more than average height
+hot;cold;warm;having a high temperature
+strong;fragile;resilient;not easily broken or damaged
+tasty;bland;delicious;having a pleasant, distinct flavor
+humble;proud;modest;having or showing a modest or low estimate of one's own importance
+loyal;disloyal;faithful;giving or showing firm and constant support to a person
+curious;indifferent;inquisitive;eager to know or learn something
+wealthy;destitute;affluent;having a great deal of money, resources, or assets
+sincere;insincere;genuine;free from pretense or deceit in feelings
+creative;unoriginal;imaginative;relating to or involving the use of the imagination or original ideas
+cheerful;gloomy;joyful;noticeably happy and optimistic
+adventurous;careful;daring;willing to take risks or to try out new methods
+peaceful;agitated;tranquil;free from disturbance; calm
+patient;impatient;forbearing;able to accept or tolerate delays, problems, or suffering without becoming annoyed
+reliable;unreliable;trustworthy;consistently good in quality or performance
+skillful;clumsy;adept;having or showing skill
+playful;serious;fun-loving;fond of games and amusement; light-hearted
+trustworthy;deceitful;reliable;able to be relied on as honest or truthful
+optimistic;pessimistic;hopeful;hopeful and confident about the future
+determined;indecisive;resolute;having made a firm decision and not allowing the possibility of change
+supportive;unsupportive;helpful;providing encouragement or emotional help
