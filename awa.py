@@ -4,8 +4,14 @@ def load_dictionary(file_path):
     dictionary = {}
     with open(file_path, 'r') as file:
         for line in file:
-            word, definition = line.strip().split(' - ')
-            dictionary[word] = definition
+            parts = line.strip().split(';')
+            if len(parts) == 4:
+                word, antonyms, synonyms, definition = parts
+                dictionary[word] = {
+                    'antonyms': antonyms.split(', '),
+                    'synonyms': synonyms.split(', '),
+                    'definition': definition
+                }
     return dictionary
 
 def main():
@@ -26,9 +32,12 @@ def main():
             print("Goodbye!")
             break
         
-        definition = dictionary.get(word)
-        if definition:
-            print(f"{word}: {definition}")
+        entry = dictionary.get(word)
+        if entry:
+            print(f"Word: {word}")
+            print(f"Definition: {entry['definition']}")
+            print(f"Synonyms: {', '.join(entry['synonyms'])}")
+            print(f"Antonyms: {', '.join(entry['antonyms'])}")
         else:
             print(f"Sorry, the word '{word}' is not in the dictionary.")
 
