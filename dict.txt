@@ -1,0 +1,5 @@
+happy;sad;joyful;feeling or showing pleasure or contentment
+sadness;happiness;sad;the condition or quality of being sad
+strong;weak;sturdy, powerful;having physical strength or endurance
+brave;cowardly;courageous;ready to face and endure danger or pain
+quick;slow;fast, speedy;moving or capable of moving at high speed
